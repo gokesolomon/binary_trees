@@ -3,7 +3,7 @@
 
 /**
  * bst_insert - Inserts value in Binary Search Tree.
- * @tree: A double pointer to Binary search tree to insert the value.
+ * @tree: A double pointer to Binary search tree to insert the value in file
  * @value: The value to store in the node.
  *
  * Return: A pointer to the created node, or NULL on failure.
